@@ -1,0 +1,116 @@
+{
+  "servos": [
+    {
+      "name": "lowerFeetL",
+      "ID": 1,
+      "degree": 120,
+      "errorFixAngle": -5,
+      "isChanging": 1,
+      "savedDegree": 120
+    },
+    {
+      "name": "lowerFeetR",
+      "ID": 2,
+      "degree": 120,
+      "errorFixAngle": 3,
+      "isChanging": 1,
+      "savedDegree": 120
+    },
+    {
+      "name": "upperFeetL",
+      "ID": 3,
+      "degree": 98,
+      "errorFixAngle": 0,
+      "isChanging": 0,
+      "savedDegree": 120
+    },
+    {
+      "name": "upperFeetR",
+      "ID": 4,
+      "degree": 142,
+      "errorFixAngle": 0,
+      "isChanging": 0,
+      "savedDegree": 120
+    },
+    {
+      "name": "lowerLegL",
+      "ID": 5,
+      "degree": 42,
+      "errorFixAngle": 5,
+      "isChanging": 0,
+      "savedDegree": 120
+    },
+    {
+      "name": "lowerLegR",
+      "ID": 6,
+      "degree": 198,
+      "errorFixAngle": -10,
+      "isChanging": 0,
+      "savedDegree": 120
+    },
+    {
+      "name": "upperLegL",
+      "ID": 7,
+      "degree": 120,
+      "errorFixAngle": -5,
+      "isChanging": 0,
+      "savedDegree": 120
+    },
+    {
+      "name": "upperLegR",
+      "ID": 8,
+      "degree": 120,
+      "errorFixAngle": 0,
+      "isChanging": 0,
+      "savedDegree": 120
+    },
+    {
+      "name": "hipL",
+      "ID": 9,
+      "degree": 120,
+      "errorFixAngle": -5,
+      "isChanging": 0,
+      "savedDegree": 120
+    },
+    {
+      "name": "hipR",
+      "ID": 10,
+      "degree": 120,
+      "errorFixAngle": -5,
+      "isChanging": 0,
+      "savedDegree": 120
+    },
+    {
+      "name": "upperArmL",
+      "ID": 11,
+      "degree": 120,
+      "errorFixAngle": 5,
+      "isChanging": 1,
+      "savedDegree": 120
+    },
+    {
+      "name": "upperArmR",
+      "ID": 12,
+      "degree": 120,
+      "errorFixAngle": 5,
+      "isChanging": 1,
+      "savedDegree": 120
+    },
+    {
+      "name": "lowerArmL",
+      "ID": 13,
+      "degree": 120,
+      "errorFixAngle": 5,
+      "isChanging": 1,
+      "savedDegree": 120
+    },
+    {
+      "name": "lowerArmR",
+      "ID": 14,
+      "degree": 120,
+      "errorFixAngle": 0,
+      "isChanging": 1,
+      "savedDegree": 120
+    }
+  ]
+}
